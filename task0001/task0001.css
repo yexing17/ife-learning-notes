@@ -1,4 +1,19 @@
-# red-align {
-  width: 960px;
-  background-color: red;
+h1 {
+    color: blue;
+}
+h2 {
+    size: 14px;
+}
+p {
+    background-color: black;
+    color: yellow;
+}
+img {
+    border: solid;
+    border-width: 2px;
+    border-color: red;
+}
+#red-align {
+    width: 960px;
+    background-color: red;
 }
